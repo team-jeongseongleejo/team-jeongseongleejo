@@ -42,6 +42,15 @@
 - **대시보드**: Flask + Flutter
 
 ---
+## 시연 영상
+
+![Image](https://github.com/user-attachments/assets/3bd9c238-8d83-4c4b-909e-d808a275a8ac)
+
+![Image](https://github.com/user-attachments/assets/a62b4331-987c-432a-9d69-d29a0154f470)
+
+![Image](https://github.com/user-attachments/assets/bd722e4a-f911-4190-8937-5fc7a56d0913)
+
+![Image](https://github.com/user-attachments/assets/8ee38c10-33c6-4d1b-85a5-381786322be2)
 
 ## 📁 Repository 구조
 
