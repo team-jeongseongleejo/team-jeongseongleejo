@@ -1,5 +1,5 @@
 # team-jeongseongleejo
-
+![header](https://capsule-render.vercel.app/api?type=waving)
 
 # 🏠 AIoT Smart Home - Gesture Control System
 
