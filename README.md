@@ -47,7 +47,7 @@
 ```
 [Gesture Recognition](https://github.com/team-jeongseongleejo/Gesture_Recognition)   # 손 제스처 인식 코드  
 [Arduino Control](https://github.com/team-jeongseongleejo/arduino_control)        # 아두이노 제어 코드  
-gesture_server/         # 백엔드 서버
+[Gesture Server](https://github.com/team-jeongseongleejo/gesture_server)         # 백엔드 서버
 Application-Web/        # 대시보드(프론트)
 
 ```
